@@ -65,14 +65,15 @@ HEAVY_ATOM_DICT = {
     'CYX': 6,
     'ASH': 8,
     'GLH': 9,
-    'LYH': 9
+    'LYH': 9,
+    'CYM': 6
 }
 
 # Global constants
 RESPROT = ('ALA', 'ARG', 'ASN', 'ASP', 'CYS', 'GLN', 'GLU', 'GLY', 'HIS',
            'ILE', 'LEU', 'LYS', 'MET', 'PHE', 'PRO', 'SER', 'THR', 'TRP',
            'TYR', 'VAL', 'HID', 'HIE', 'HIN', 'HIP', 'CYX', 'ASH', 'GLH',
-           'LYH', 'ACE', 'NME', 'GL4', 'AS4')
+           'LYH', 'ACE', 'NME', 'GL4', 'AS4', 'CYM')
 
 RESNA = ('C', 'G', 'U', 'A', 'DC', 'DG', 'DT', 'DA', 'OHE' )
 
